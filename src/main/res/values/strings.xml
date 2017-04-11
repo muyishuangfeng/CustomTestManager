@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_default">默认消息</string>
+    <string name="tips">提示</string>
+    <string name="press_back">亲，请再按一次退出</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="permission_desc">请允许使用权限，否则程序将用不</string>
+</resources>
